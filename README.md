@@ -1,3 +1,8 @@
+fork大佬的代码，但是大佬已经不更新了，所以基于大佬的代码稍微修改，保证正常运行。感谢大佬。
+下面是大佬的原README。
+
+——————————分割线——————————
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
